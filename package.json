@@ -15,7 +15,7 @@
     "datauri": "^3.0.0",
     "express": "^4.17.1",
     "http": "^0.0.1-security",
-    "jsdom": "^16.3.0",
+    "jsdom": "^16.5.0",
     "node": "10.16.3",
     "socket.io": "^2.3.0"
   }
